@@ -1,7 +1,7 @@
 import React from 'react'
 import Logo from '../assets/logo.png'
 import '../styles/menu.css'
-import Button from './button'
+import Button from './Button'
 
 const Menu = () => {
     return (

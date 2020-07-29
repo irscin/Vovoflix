@@ -1,0 +1,37 @@
+.MainViewContainer {
+    overflow: hidden;
+    background-size: cover;
+    height: 80vh;
+    background-position: center;
+}
+
+
+.VideoContainer {
+    float: right;
+    width: 50%;
+    height: 100%;
+}
+
+@media screen and (max-width: 800px) {
+    .VideoContainer{
+        visibility: hidden;
+        display: none;
+    }
+}
+
+iframe{
+    margin-top: 10%;
+    height: 60%;
+    width: 80%;
+    
+}
+
+.TextVideo {
+    float: left;
+    width: 50%;
+    height: 100%;
+    margin-top: 8%;
+    line-height: 1;
+    color: black;
+    font-weight: bold;
+}

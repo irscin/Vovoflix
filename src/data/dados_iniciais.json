@@ -1,0 +1,74 @@
+{
+  "categorias": [
+    {
+      "titulo": "MVG",
+      "link": "https://www.youtube.com/user/jimako123",
+      "cor": "#6BD1FF",
+      "videos": [
+        {
+          "titulo": "How the Sony PlayStation PS1 Security was defeated",
+          "url": "https://www.youtube.com/watch?v=7HOBQ7HifLE"
+        },
+        {
+          "titulo": "How the Sony Playstation Portable PSP Security was defeated",
+          "url": "https://www.youtube.com/watch?v=qIxKPu20R58"
+        },
+        {
+          "titulo": "How the Sony Playstation 2 Security Was Defeated",
+          "url": "https://www.youtube.com/watch?v=VGMR6FHey68"
+        },
+        {
+          "titulo": "How the Original Xbox Security was Defeated",
+          "url": "https://www.youtube.com/watch?v=XuOm-RTQxVU"
+        },
+        {
+          "titulo": "How the Nintendo GameCube Security was defeated",
+          "url": "https://www.youtube.com/watch?v=Uxjl_kD3imQ"
+        },
+        {
+          "titulo": "How a pair of Tweezers defeated security on the Nintendo Wii",
+          "url": "https://www.youtube.com/watch?v=4BlpONgj74A"
+        },
+        {
+          "titulo": "How a USB key defeated security on the Sony PlayStation 3",
+          "url": "https://www.youtube.com/watch?v=2yQCOso_4hc"
+        },
+        {
+          "titulo": "How the Xbox 360 Hypervisor Security was Defeated",
+          "url": "https://www.youtube.com/watch?v=Vq1lxeg_gNs&t=192s"
+        }        
+      ]
+    },
+    {
+      "titulo": "Back End",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Cursos de Back End na Alura",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [
+        {
+          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
+          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+        },
+        {
+          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
+          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+        },
+        {
+          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
+          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+        },
+        {
+          "titulo": "API: Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+        }, 
+        {
+          "titulo": "Usando Git Direito",
+          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+        }
+      ]
+    
+    }
+  ]
+}
